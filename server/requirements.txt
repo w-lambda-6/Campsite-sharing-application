@@ -1,0 +1,7 @@
+asgiref==3.8.1
+Django==5.1.6
+django-cors-headers==4.7.0
+dnspython==2.7.0
+pymongo==4.11.2
+redis==4.5.5
+sqlparse==0.5.3
